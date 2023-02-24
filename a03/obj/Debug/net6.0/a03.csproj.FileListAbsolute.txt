@@ -1,0 +1,15 @@
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\bin\Debug\net6.0\a03.exe
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\bin\Debug\net6.0\a03.deps.json
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\bin\Debug\net6.0\a03.runtimeconfig.json
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\bin\Debug\net6.0\a03.dll
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\bin\Debug\net6.0\a03.pdb
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\obj\Debug\net6.0\a03.csproj.AssemblyReference.cache
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\obj\Debug\net6.0\a03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\obj\Debug\net6.0\a03.AssemblyInfoInputs.cache
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\obj\Debug\net6.0\a03.AssemblyInfo.cs
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\obj\Debug\net6.0\a03.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\obj\Debug\net6.0\a03.dll
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\obj\Debug\net6.0\refint\a03.dll
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\obj\Debug\net6.0\a03.pdb
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\obj\Debug\net6.0\a03.genruntimeconfig.cache
+C:\Users\Neemi\OneDrive\Área de Trabalho\Programação\C#\Aulas\Array\a03\a03\obj\Debug\net6.0\ref\a03.dll
